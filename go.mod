@@ -1,6 +1,6 @@
 module github.com/posthog/posthog-go
 
-go 1.21
+go 1.24.0
 
 require (
 	github.com/andybalholm/brotli v1.1.1
@@ -13,7 +13,7 @@ require (
 	github.com/orian/flakyhttp v0.1.1
 	github.com/stretchr/testify v1.11.1
 	github.com/urfave/cli v1.22.17
-	golang.org/x/sys v0.21.0
+	golang.org/x/sys v0.41.0
 )
 
 require (
